@@ -7,7 +7,7 @@
 
 ## About How to build an Online Shop <a name="how-to-online-shop">
 ### All you need to know to build an Online Shop
-We are creating a list of Articles in this Wiki to help you build an Online Shop from scratch. We will focus on three shop types:
+We are creating a list of Articles in this Wiki to help you build an Online Shop from scratch. We will focus on two shop types:
 
 - Amazon
 - eBay
