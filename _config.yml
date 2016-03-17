@@ -16,6 +16,8 @@ baseurl: "/v2-Marketing" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
+include: ["_pages","_javascript"]
+exclude: ["node_modules"]
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,28 @@
+.v2-navbar {
+    min-height: 50px;
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    z-index: 9999;
+}
+.v2-navbar-nav > li > a {
+    height:auto;
+    padding:15px;
+    line-height:inherit;
+}
+.v2-navbar-nav > li > a:hover {
+    cursor:pointer;
+}
+.v2-navbar .uk-active {
+    background-color:#DDDDDD;
+}
+.v2-navbar-brand {
+    padding-left:0;
+}
+body {
+	padding-top:51px;
+}
+.uk-offcanvas.uk-active .uk-offcanvas-bar  {
+	padding-top:51px;
+}
